@@ -1,6 +1,6 @@
 {
   "name": "@yehonadav/mongodb-serverless-middleware",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "serverless middleware to ensure mongodb connection",
   "author": "yehonadav",
   "license": "Apache-2.0",
